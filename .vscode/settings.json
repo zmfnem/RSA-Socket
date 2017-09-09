@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "in.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "inet.h": "c",
+        "iterator": "cpp",
+        "__config": "cpp",
+        "cstddef": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "thread": "cpp",
+        "locale": "cpp"
+    }
+}
